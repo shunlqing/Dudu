@@ -4,297 +4,297 @@ looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 97072128 total bytes read
-name= ./../cmake-build-debug/cli 94797 total messages read
-name= ./../cmake-build-debug/cli 1024 average message size
-name= ./../cmake-build-debug/cli 9.25752 Mib/s throughput
+name= ../cli 89641984 total bytes read
+name= ../cli 87541 total messages read
+name= ../cli 1024 average message size
+name= ../cli 8.54893 Mib/s throughput
 ==> Bufsize: 1024 Threads: 1 Sessions: 10
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 1457313792 total bytes read
-name= ./../cmake-build-debug/cli 1423158 total messages read
-name= ./../cmake-build-debug/cli 1024 average message size
-name= ./../cmake-build-debug/cli 138.98 Mib/s throughput
+name= ../cli 1412642816 total bytes read
+name= ../cli 1379534 total messages read
+name= ../cli 1024 average message size
+name= ../cli 134.72 Mib/s throughput
 ==> Bufsize: 1024 Threads: 1 Sessions: 100
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 1382953984 total bytes read
-name= ./../cmake-build-debug/cli 1350541 total messages read
-name= ./../cmake-build-debug/cli 1024 average message size
-name= ./../cmake-build-debug/cli 131.889 Mib/s throughput
+name= ../cli 1740966912 total bytes read
+name= ../cli 1700163 total messages read
+name= ../cli 1024 average message size
+name= ../cli 166.032 Mib/s throughput
 ==> Bufsize: 1024 Threads: 1 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 850298880 total bytes read
-name= ./../cmake-build-debug/cli 830370 total messages read
-name= ./../cmake-build-debug/cli 1024 average message size
-name= ./../cmake-build-debug/cli 81.0908 Mib/s throughput
+name= ../cli 1230516224 total bytes read
+name= ../cli 1201676 total messages read
+name= ../cli 1024 average message size
+name= ../cli 117.351 Mib/s throughput
 ==> Bufsize: 1024 Threads: 1 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 999424000 total bytes read
-name= ./../cmake-build-debug/cli 976000 total messages read
-name= ./../cmake-build-debug/cli 1024 average message size
-name= ./../cmake-build-debug/cli 95.3125 Mib/s throughput
+name= ../cli 1110016000 total bytes read
+name= ../cli 1084000 total messages read
+name= ../cli 1024 average message size
+name= ../cli 105.859 Mib/s throughput
 ==> Bufsize: 2048 Threads: 1 Sessions: 1
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 194738176 total bytes read
-name= ./../cmake-build-debug/cli 95087 total messages read
-name= ./../cmake-build-debug/cli 2048 average message size
-name= ./../cmake-build-debug/cli 18.5717 Mib/s throughput
+name= ../cli 180621312 total bytes read
+name= ../cli 88194 total messages read
+name= ../cli 2048 average message size
+name= ../cli 17.2254 Mib/s throughput
 ==> Bufsize: 2048 Threads: 1 Sessions: 10
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 2844633088 total bytes read
-name= ./../cmake-build-debug/cli 1388981 total messages read
-name= ./../cmake-build-debug/cli 2048 average message size
-name= ./../cmake-build-debug/cli 271.285 Mib/s throughput
+name= ../cli 2854983680 total bytes read
+name= ../cli 1394035 total messages read
+name= ../cli 2048 average message size
+name= ../cli 272.272 Mib/s throughput
 ==> Bufsize: 2048 Threads: 1 Sessions: 100
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 2885578752 total bytes read
-name= ./../cmake-build-debug/cli 1408974 total messages read
-name= ./../cmake-build-debug/cli 2048 average message size
-name= ./../cmake-build-debug/cli 275.19 Mib/s throughput
+name= ../cli 2892972032 total bytes read
+name= ../cli 1412584 total messages read
+name= ../cli 2048 average message size
+name= ../cli 275.895 Mib/s throughput
 ==> Bufsize: 2048 Threads: 1 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 2246805504 total bytes read
-name= ./../cmake-build-debug/cli 1097073 total messages read
-name= ./../cmake-build-debug/cli 2048 average message size
-name= ./../cmake-build-debug/cli 214.272 Mib/s throughput
+name= ../cli 2173401088 total bytes read
+name= ../cli 1061231 total messages read
+name= ../cli 2048 average message size
+name= ../cli 207.272 Mib/s throughput
 ==> Bufsize: 2048 Threads: 1 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 1941504000 total bytes read
-name= ./../cmake-build-debug/cli 948000 total messages read
-name= ./../cmake-build-debug/cli 2048 average message size
-name= ./../cmake-build-debug/cli 185.156 Mib/s throughput
+name= ../cli 1892941824 total bytes read
+name= ../cli 924288 total messages read
+name= ../cli 2048 average message size
+name= ../cli 180.525 Mib/s throughput
 ==> Bufsize: 4096 Threads: 1 Sessions: 1
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 348356608 total bytes read
-name= ./../cmake-build-debug/cli 85048 total messages read
-name= ./../cmake-build-debug/cli 4096 average message size
-name= ./../cmake-build-debug/cli 33.2219 Mib/s throughput
+name= ../cli 372260864 total bytes read
+name= ../cli 90884 total messages read
+name= ../cli 4096 average message size
+name= ../cli 35.5016 Mib/s throughput
 ==> Bufsize: 4096 Threads: 1 Sessions: 10
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 4972744704 total bytes read
-name= ./../cmake-build-debug/cli 1214049 total messages read
-name= ./../cmake-build-debug/cli 4096 average message size
-name= ./../cmake-build-debug/cli 474.238 Mib/s throughput
+name= ../cli 4901724160 total bytes read
+name= ../cli 1196710 total messages read
+name= ../cli 4096 average message size
+name= ../cli 467.465 Mib/s throughput
 ==> Bufsize: 4096 Threads: 1 Sessions: 100
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 4934787072 total bytes read
-name= ./../cmake-build-debug/cli 1204782 total messages read
-name= ./../cmake-build-debug/cli 4096 average message size
-name= ./../cmake-build-debug/cli 470.618 Mib/s throughput
+name= ../cli 4977356800 total bytes read
+name= ../cli 1215175 total messages read
+name= ../cli 4096 average message size
+name= ../cli 474.678 Mib/s throughput
 ==> Bufsize: 4096 Threads: 1 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 3987632128 total bytes read
-name= ./../cmake-build-debug/cli 973543 total messages read
-name= ./../cmake-build-debug/cli 4096 average message size
-name= ./../cmake-build-debug/cli 380.29 Mib/s throughput
+name= ../cli 3489333248 total bytes read
+name= ../cli 851888 total messages read
+name= ../cli 4096 average message size
+name= ../cli 332.769 Mib/s throughput
 ==> Bufsize: 4096 Threads: 1 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 3407872000 total bytes read
-name= ./../cmake-build-debug/cli 832000 total messages read
-name= ./../cmake-build-debug/cli 4096 average message size
-name= ./../cmake-build-debug/cli 325 Mib/s throughput
+name= ../cli 3375104000 total bytes read
+name= ../cli 824000 total messages read
+name= ../cli 4096 average message size
+name= ../cli 321.875 Mib/s throughput
 ==> Bufsize: 8192 Threads: 1 Sessions: 1
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 740704256 total bytes read
-name= ./../cmake-build-debug/cli 90418 total messages read
-name= ./../cmake-build-debug/cli 8192 average message size
-name= ./../cmake-build-debug/cli 70.6391 Mib/s throughput
+name= ../cli 733020160 total bytes read
+name= ../cli 89480 total messages read
+name= ../cli 8192 average message size
+name= ../cli 69.9062 Mib/s throughput
 ==> Bufsize: 8192 Threads: 1 Sessions: 10
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 8248279040 total bytes read
-name= ./../cmake-build-debug/cli 1006870 total messages read
-name= ./../cmake-build-debug/cli 8192 average message size
-name= ./../cmake-build-debug/cli 786.617 Mib/s throughput
+name= ../cli 8361680896 total bytes read
+name= ../cli 1020713 total messages read
+name= ../cli 8192 average message size
+name= ../cli 797.432 Mib/s throughput
 ==> Bufsize: 8192 Threads: 1 Sessions: 100
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 8261550080 total bytes read
-name= ./../cmake-build-debug/cli 1008490 total messages read
-name= ./../cmake-build-debug/cli 8192 average message size
-name= ./../cmake-build-debug/cli 787.883 Mib/s throughput
+name= ../cli 8382644224 total bytes read
+name= ../cli 1023272 total messages read
+name= ../cli 8192 average message size
+name= ../cli 799.431 Mib/s throughput
 ==> Bufsize: 8192 Threads: 1 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 6489817088 total bytes read
-name= ./../cmake-build-debug/cli 792214 total messages read
-name= ./../cmake-build-debug/cli 8192 average message size
-name= ./../cmake-build-debug/cli 618.917 Mib/s throughput
+name= ../cli 6707855360 total bytes read
+name= ../cli 818830 total messages read
+name= ../cli 8192 average message size
+name= ../cli 639.711 Mib/s throughput
 ==> Bufsize: 8192 Threads: 1 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 5685248000 total bytes read
-name= ./../cmake-build-debug/cli 694000 total messages read
-name= ./../cmake-build-debug/cli 8192 average message size
-name= ./../cmake-build-debug/cli 542.188 Mib/s throughput
+name= ../cli 5849088000 total bytes read
+name= ../cli 714000 total messages read
+name= ../cli 8192 average message size
+name= ../cli 557.812 Mib/s throughput
 ==> Bufsize: 16384 Threads: 1 Sessions: 1
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 1398865920 total bytes read
-name= ./../cmake-build-debug/cli 85380 total messages read
-name= ./../cmake-build-debug/cli 16384 average message size
-name= ./../cmake-build-debug/cli 133.406 Mib/s throughput
+name= ../cli 1393885184 total bytes read
+name= ../cli 85076 total messages read
+name= ../cli 16384 average message size
+name= ../cli 132.931 Mib/s throughput
 ==> Bufsize: 16384 Threads: 1 Sessions: 10
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 11374428160 total bytes read
-name= ./../cmake-build-debug/cli 694240 total messages read
-name= ./../cmake-build-debug/cli 16384 average message size
-name= ./../cmake-build-debug/cli 1084.75 Mib/s throughput
+name= ../cli 12858064896 total bytes read
+name= ../cli 784794 total messages read
+name= ../cli 16384 average message size
+name= ../cli 1226.24 Mib/s throughput
 ==> Bufsize: 16384 Threads: 1 Sessions: 100
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 10658332672 total bytes read
-name= ./../cmake-build-debug/cli 650533 total messages read
-name= ./../cmake-build-debug/cli 16384 average message size
-name= ./../cmake-build-debug/cli 1016.46 Mib/s throughput
+name= ../cli 12741394432 total bytes read
+name= ../cli 777673 total messages read
+name= ../cli 16384 average message size
+name= ../cli 1215.11 Mib/s throughput
 ==> Bufsize: 16384 Threads: 1 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 9646637056 total bytes read
-name= ./../cmake-build-debug/cli 588784 total messages read
-name= ./../cmake-build-debug/cli 16384 average message size
-name= ./../cmake-build-debug/cli 919.975 Mib/s throughput
+name= ../cli 10278977536 total bytes read
+name= ../cli 627379 total messages read
+name= ../cli 16384 average message size
+name= ../cli 980.28 Mib/s throughput
 ==> Bufsize: 16384 Threads: 1 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 6812682384 total bytes read
-name= ./../cmake-build-debug/cli 499409 total messages read
-name= ./../cmake-build-debug/cli 13641.5 average message size
-name= ./../cmake-build-debug/cli 649.708 Mib/s throughput
+name= ../cli 7379877232 total bytes read
+name= ../cli 540540 total messages read
+name= ../cli 13652.8 average message size
+name= ../cli 703.8 Mib/s throughput
 ==> Bufsize: 81920 Threads: 1 Sessions: 1
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 4130275169 total bytes read
-name= ./../cmake-build-debug/cli 50527 total messages read
-name= ./../cmake-build-debug/cli 81743.9 average message size
-name= ./../cmake-build-debug/cli 393.894 Mib/s throughput
+name= ../cli 4174904337 total bytes read
+name= ../cli 51137 total messages read
+name= ../cli 81641.6 average message size
+name= ../cli 398.15 Mib/s throughput
 ==> Bufsize: 81920 Threads: 1 Sessions: 10
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 10355818443 total bytes read
-name= ./../cmake-build-debug/cli 126521 total messages read
-name= ./../cmake-build-debug/cli 81850.6 average message size
-name= ./../cmake-build-debug/cli 987.608 Mib/s throughput
+name= ../cli 10498834326 total bytes read
+name= ../cli 128265 total messages read
+name= ../cli 81852.7 average message size
+name= ../cli 1001.25 Mib/s throughput
 ==> Bufsize: 81920 Threads: 1 Sessions: 100
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 7432781612 total bytes read
-name= ./../cmake-build-debug/cli 90824 total messages read
-name= ./../cmake-build-debug/cli 81837.2 average message size
-name= ./../cmake-build-debug/cli 708.845 Mib/s throughput
+name= ../cli 9864478720 total bytes read
+name= ../cli 120470 total messages read
+name= ../cli 81883.3 average message size
+name= ../cli 940.75 Mib/s throughput
 ==> Bufsize: 81920 Threads: 1 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 7644528640 total bytes read
-name= ./../cmake-build-debug/cli 93317 total messages read
-name= ./../cmake-build-debug/cli 81920 average message size
-name= ./../cmake-build-debug/cli 729.039 Mib/s throughput
+name= ../cli 9408184320 total bytes read
+name= ../cli 114846 total messages read
+name= ../cli 81920 average message size
+name= ../cli 897.234 Mib/s throughput
 ==> Bufsize: 81920 Threads: 1 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ./../cmake-build-debug/cli 3255074189 total bytes read
-name= ./../cmake-build-debug/cli 153597 total messages read
-name= ./../cmake-build-debug/cli 21192.3 average message size
-name= ./../cmake-build-debug/cli 310.428 Mib/s throughput
+name= ../cli 2644058540 total bytes read
+name= ../cli 126809 total messages read
+name= ../cli 20850.7 average message size
+name= ../cli 252.157 Mib/s throughput
