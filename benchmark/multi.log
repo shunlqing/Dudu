@@ -4,10 +4,10 @@ looping
 all connected
 looping
 all disconnected
-name= ../cli 12090900480 total bytes read
-name= ../cli 737970 total messages read
+name= ../cli 12160516096 total bytes read
+name= ../cli 742219 total messages read
 name= ../cli 16384 average message size
-name= ../cli 1153.08 Mib/s throughput
+name= ../cli 1159.72 Mib/s throughput
 Bufsize: 16384 Threads: 2 Sessions: 100
 Success: listen on (127.0.0.1:8088)
 looping
@@ -16,10 +16,10 @@ all connected
 looping
 looping
 all disconnected
-name= ../cli 11833606144 total bytes read
-name= ../cli 722266 total messages read
+name= ../cli 15574269952 total bytes read
+name= ../cli 950578 total messages read
 name= ../cli 16384 average message size
-name= ../cli 1128.54 Mib/s throughput
+name= ../cli 1485.28 Mib/s throughput
 Bufsize: 16384 Threads: 3 Sessions: 100
 Success: listen on (127.0.0.1:8088)
 looping
@@ -30,10 +30,10 @@ looping
 looping
 looping
 all disconnected
-name= ../cli 11840831488 total bytes read
-name= ../cli 722707 total messages read
+name= ../cli 16956293120 total bytes read
+name= ../cli 1034930 total messages read
 name= ../cli 16384 average message size
-name= ../cli 1129.23 Mib/s throughput
+name= ../cli 1617.08 Mib/s throughput
 Bufsize: 16384 Threads: 4 Sessions: 100
 Success: listen on (127.0.0.1:8088)
 looping
@@ -46,20 +46,20 @@ looping
 looping
 looping
 all disconnected
-name= ../cli 11910889472 total bytes read
-name= ../cli 726983 total messages read
+name= ../cli 17531502592 total bytes read
+name= ../cli 1070038 total messages read
 name= ../cli 16384 average message size
-name= ../cli 1135.91 Mib/s throughput
+name= ../cli 1671.93 Mib/s throughput
 Bufsize: 16384 Threads: 1 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ../cli 9408167936 total bytes read
-name= ../cli 574229 total messages read
+name= ../cli 9949741056 total bytes read
+name= ../cli 607284 total messages read
 name= ../cli 16384 average message size
-name= ../cli 897.233 Mib/s throughput
+name= ../cli 948.881 Mib/s throughput
 Bufsize: 16384 Threads: 2 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
@@ -68,10 +68,10 @@ all connected
 looping
 looping
 all disconnected
-name= ../cli 9936175104 total bytes read
-name= ../cli 606456 total messages read
+name= ../cli 13823164416 total bytes read
+name= ../cli 843699 total messages read
 name= ../cli 16384 average message size
-name= ../cli 947.587 Mib/s throughput
+name= ../cli 1318.28 Mib/s throughput
 Bufsize: 16384 Threads: 3 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
@@ -82,10 +82,10 @@ looping
 looping
 looping
 all disconnected
-name= ../cli 10015211520 total bytes read
-name= ../cli 611280 total messages read
+name= ../cli 14463516672 total bytes read
+name= ../cli 882783 total messages read
 name= ../cli 16384 average message size
-name= ../cli 955.125 Mib/s throughput
+name= ../cli 1379.35 Mib/s throughput
 Bufsize: 16384 Threads: 4 Sessions: 1000
 Success: listen on (127.0.0.1:8088)
 looping
@@ -98,20 +98,20 @@ looping
 looping
 looping
 all disconnected
-name= ../cli 9073934336 total bytes read
-name= ../cli 553829 total messages read
+name= ../cli 12572704768 total bytes read
+name= ../cli 767377 total messages read
 name= ../cli 16384 average message size
-name= ../cli 865.358 Mib/s throughput
+name= ../cli 1199.03 Mib/s throughput
 Bufsize: 16384 Threads: 1 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
 all connected
 looping
 all disconnected
-name= ../cli 7239058640 total bytes read
-name= ../cli 531577 total messages read
-name= ../cli 13618.1 average message size
-name= ../cli 690.37 Mib/s throughput
+name= ../cli 6166831472 total bytes read
+name= ../cli 452211 total messages read
+name= ../cli 13637.1 average message size
+name= ../cli 588.115 Mib/s throughput
 Bufsize: 16384 Threads: 2 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
@@ -120,10 +120,10 @@ all connected
 looping
 looping
 all disconnected
-name= ../cli 6996144752 total bytes read
-name= ../cli 513704 total messages read
-name= ../cli 13619 average message size
-name= ../cli 667.204 Mib/s throughput
+name= ../cli 9972270800 total bytes read
+name= ../cli 733919 total messages read
+name= ../cli 13587.7 average message size
+name= ../cli 951.03 Mib/s throughput
 Bufsize: 16384 Threads: 3 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
@@ -134,10 +134,10 @@ looping
 looping
 looping
 all disconnected
-name= ../cli 6964994704 total bytes read
-name= ../cli 513891 total messages read
-name= ../cli 13553.4 average message size
-name= ../cli 664.234 Mib/s throughput
+name= ../cli 9377446000 total bytes read
+name= ../cli 703259 total messages read
+name= ../cli 13334.3 average message size
+name= ../cli 894.303 Mib/s throughput
 Bufsize: 16384 Threads: 4 Sessions: 10000
 Success: listen on (127.0.0.1:8088)
 looping
@@ -146,11 +146,6 @@ looping
 looping
 all connected
 looping
+loopinglooping
+
 looping
-looping
-looping
-all disconnected
-name= ../cli 6760881728 total bytes read
-name= ../cli 496099 total messages read
-name= ../cli 13628.1 average message size
-name= ../cli 644.768 Mib/s throughput
